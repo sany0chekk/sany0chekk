@@ -1,57 +1,19 @@
-<h1 align="center">Hi 👋, I'm Oleksandr Veselyi</h1>
-<h3 align="center">A Fullstack Developer from Ukraine</h3>
+### Hi there, I'm Oleksandr Veselyi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sany0chekk&label=Profile%20views&color=0e75b6&style=flat" alt="sany0chekk" /> </p>
+I'm a passionate Fullstack Developer from Ukraine. I specialize in building modern web applications with a focus on clean code and user-friendly design. I'm always eager to learn new technologies and take on challenging projects. Check out my work and feel free to connect with me!
 
-👨‍💻 All of my projects are available at [https://o-veselyi.vercel.app](https://o-veselyi.vercel.app)<br/>
-📫 How to reach me **veselyy.oleksandr@gmail.com**
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/o-veselyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-veselyi" height="30" width="40" /></a>
-<a href="https://instagram.com/hackingbegin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackingbegin" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">Front-end:</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Oleksandr_Veselyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-veselyi/) 
+[![Mail Badge](https://img.shields.io/badge/-@hackingbegin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/hackingbegin/) 
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:veselyy.oleksandr@gmail.com)
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
-<p align="left">Back-end:</p>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-</p>
-<br/>
-<br/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sany0chekk&show_icons=true&locale=en" alt="sany0chekk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sany0chekk&" alt="sany0chekk" /></p>
+#### Top Technologies
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next Badge](https://img.shields.io/badge/-Next-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+### My stats ⭐
+<div align="left">
+<img alt="Oleksandr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sany0chekk&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sany0chekk&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![Olexandr Veselyi profile views](https://u8views.com/api/v1/github/profiles/110936784/views/day-week-month-total-count.svg)](https://u8views.com/github/sany0chekk)
